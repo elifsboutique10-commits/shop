@@ -1,2 +1,2 @@
 # shop
-Checkout link for the ElifsBoutiqueCo Facebook and Istagram shop; forwards shoppers to the Etsy listing.
+Checkout link for the ElifsBoutiqueCo Facebook and Instagram shop; forwards shoppers to the Etsy listing.
